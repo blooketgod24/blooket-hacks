@@ -87,3 +87,4 @@ function footer() {
 };
 
 footer();
+comand java script 67838.stye 56  = script of entire repeat.
